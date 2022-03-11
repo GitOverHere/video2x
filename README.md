@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/21986859/102733190-872a7880-4334-11eb-8e9e-0ca747f130b1.png"/>
+   <img src="https://i.ibb.co/9Gvx81D/logo.png"/>
    </br>
    <img src="https://img.shields.io/github/v/release/k4yt3x/video2x?style=flat-square"/>
    <img src="https://img.shields.io/github/workflow/status/k4yt3x/video2x/CI?label=CI&style=flat-square"/>
@@ -107,18 +107,3 @@ Legacy versions of this project includes or depends on these following projects:
 | [tqdm](https://github.com/tqdm/tqdm)                                        | MPLv2.0, MIT License |
 
 More licensing information can be found in the [NOTICES](NOTICES) file.
-
-## Special Thanks
-
-Appreciations given to the following personnel who have contributed significantly to the project.
-
-- [@BrianPetkovsek](https://github.com/BrianPetkovsek)
-- [@sat3ll](https://github.com/sat3ll)
-- [@ddouglas87](https://github.com/ddouglas87)
-- [@lhanjian](https://github.com/lhanjian)
-- [@ArchieMeng](https://github.com/archiemeng)
-
-## Similar Projects
-
-- [Dandere2x](https://github.com/CardinalPanda/dandere2x): A lossy video upscaler also built around `waifu2x`, but with video compression techniques to shorten the time needed to process a video.
-- [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI): A similar project that focuses more and only on building a better graphical user interface. It is built using C++ and Qt5, and currently only supports the Windows platform.
